@@ -6,7 +6,7 @@ Authors@R: c(
     )
 Authors: Chris Schultz
 Maintainer: Chris Schultz <chris.schultz@uptake.com>
-Description: This package is intended to build and execute modular based R
+Description: This package is intended to build and execute modular R
              workflows. UpDraft workflows are built through R6 classes and can be
              saved to disk in JSON format. UpDraft workflow execution supports
              both serial and parallel execution without a user needing to
